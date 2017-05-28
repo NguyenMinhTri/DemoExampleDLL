@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\technical\c++\objectpaint\demofileini\source.cpp(73): warning C4101: 'y1': unreferenced local variable
+d:\technical\c++\objectpaint\demofileini\source.cpp(73): warning C4101: 'x2': unreferenced local variable
+  DemoFileIni.vcxproj -> D:\Technical\C++\ObjectPaint\Debug\DemoFileIni.exe
+  DemoFileIni.vcxproj -> D:\Technical\C++\ObjectPaint\Debug\DemoFileIni.pdb (Full PDB)

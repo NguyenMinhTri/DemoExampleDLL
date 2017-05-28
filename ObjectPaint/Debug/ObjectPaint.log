@@ -1,0 +1,8 @@
+﻿  PrintableInt.cpp
+d:\technical\c++\objectpaint\objectpaint\printableint.cpp(7): warning C4273: 'PrintableInt::PrintableInt': inconsistent dll linkage
+  d:\technical\c++\objectpaint\objectpaint\printableint.h(12): note: see previous definition of '{ctor}'
+d:\technical\c++\objectpaint\objectpaint\printableint.cpp(11): warning C4273: 'PrintableInt::toString': inconsistent dll linkage
+  d:\technical\c++\objectpaint\objectpaint\printableint.h(13): note: see previous definition of 'toString'
+     Creating library D:\Technical\C++\ObjectPaint\Debug\ObjectPaint.lib and object D:\Technical\C++\ObjectPaint\Debug\ObjectPaint.exp
+  ObjectPaint.vcxproj -> D:\Technical\C++\ObjectPaint\Debug\ObjectPaint.dll
+  ObjectPaint.vcxproj -> D:\Technical\C++\ObjectPaint\Debug\ObjectPaint.pdb (Full PDB)
